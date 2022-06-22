@@ -3016,27 +3016,27 @@ msgstr "도구 모음 아이콘은 이미 최소 크기입니다"
 
 #: /home/giuspen/git/cherrytree/src/ct/ct_image.cc:429
 msgid "Could not access the executables 'latex' and 'dvipng'"
-msgstr ""
+msgstr "실행 가능한 latex 및 dvipng 에 액세스할 수 없습니다"
 
 #: /home/giuspen/git/cherrytree/src/ct/ct_image.cc:430
 #: /home/giuspen/git/cherrytree/src/ct/ct_image.cc:437
 #: /home/giuspen/git/cherrytree/src/ct/ct_image.cc:444
 msgid "For example, on Ubuntu the packages to install are:"
-msgstr ""
+msgstr "예를 들어 Ubuntu에서 설치할 패키지는 다음과 같습니다"
 
 #: /home/giuspen/git/cherrytree/src/ct/ct_image.cc:432
 #: /home/giuspen/git/cherrytree/src/ct/ct_image.cc:439
 #: /home/giuspen/git/cherrytree/src/ct/ct_image.cc:446
 msgid "For example, on Mac OS the packages to install are:"
-msgstr ""
+msgstr "예를 들어 Mac OS에서 설치할 패키지는 다음과 같습니다"
 
 #: /home/giuspen/git/cherrytree/src/ct/ct_image.cc:436
 msgid "Could not access the executable 'latex'"
-msgstr ""
+msgstr "실행 가능한 latex 에 액세스할 수 없습니다"
 
 #: /home/giuspen/git/cherrytree/src/ct/ct_image.cc:443
 msgid "Could not access the executable 'dvipng'"
-msgstr ""
+msgstr "실행 가능한 dvipng 에 액세스할 수 없습니다"
 
 #: /home/giuspen/git/cherrytree/src/ct/ct_pref_dlg_rich_text.cc:30
 msgid "Enable Spell Check"
