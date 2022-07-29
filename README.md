@@ -1,6 +1,6 @@
 ## 1. CherryTree
 
-      [cherrytree/po] **korean.pofile** for cherrytree
+      [cherrytree/po] korean.pofile for cherrytree
       requirements tools: poedit
 
       # cherrytree github
